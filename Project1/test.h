@@ -245,6 +245,7 @@ int main() {
 	delete names;
 	return 0;
 }
+//tek yönlü dairesel liste
 #ifndef CIRCULARLINKEDLIST_HPP
 #define CIRCULARLINKEDLIST_HPP
 #include <Iterator.hpp>
